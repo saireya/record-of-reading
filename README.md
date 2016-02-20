@@ -1,4 +1,2 @@
-My Awesome Book
-=======
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# 読書メモ
+情報学関係の書籍を読んだ際に残している読書メモです。
