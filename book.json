@@ -1,1 +1,4 @@
-{ "plugins": ["mathjax"] }
+{
+	"plugins": ["mathjax"],
+	"pdf": { "fontFamily": "IPAGothic" }
+}
