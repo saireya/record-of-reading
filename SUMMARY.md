@@ -16,6 +16,8 @@
 * システム
 	* [Barnard『経営者の役割』](system/Barnard『経営者の役割』.md)
 	* [Bertalanffy『一般システム理論』](system/Bertalanffy『一般システム理論』.md)
+	* [Simon『オーガニゼーションズ』](system/Simon『オーガニゼーションズ』.md)
+	* [Simon『システムの科学』](system/Simon『システムの科学』.md)
 	* [河本『オートポイエーシス――第三世代システム』](system/河本『オートポイエーシス――第三世代システム』.md)
 	* [竹沢『社会とは何か』](system/竹沢『社会とは何か』.md)
 	* [田尾『よくわかる組織論』](system/田尾『よくわかる組織論』.md)
