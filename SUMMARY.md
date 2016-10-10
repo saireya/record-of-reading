@@ -9,6 +9,7 @@
 * コミュニケーション
 	* [Borch『ニクラス・ルーマン入門――社会システム理論とは何か』](communication/Borch『ニクラス・ルーマン入門――社会システム理論とは何か』.md)
 	* [町田『ソシュールと言語学』](communication/町田『ソシュールと言語学』.md)
+	* [Whorf『言語・思考・現実』](communication/Whorf『言語・思考・現実』.md)
 	* [中橋『メディア・リテラシー論』](communication/中橋『メディア・リテラシー論』.md)
 * デザイン
 	* [Norman『The design of everyday things』](design/Norman『The design of everyday things』.md)
