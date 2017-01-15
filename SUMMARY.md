@@ -12,7 +12,6 @@
 	* [Whorf『言語・思考・現実』](communication/Whorf『言語・思考・現実』.md)
 	* [今井『ことばと思考』](communication/今井『ことばと思考』.md)
 	* [中橋『メディア・リテラシー論』](communication/中橋『メディア・リテラシー論』.md)
-
 * デザイン
 	* [Norman『The design of everyday things』](design/Norman『The design of everyday things』.md)
 	* [Cassim『「インクルーシブデザイン」という発想』](design/Cassim『「インクルーシブデザイン」という発想』.md)
@@ -37,7 +36,7 @@
 	* [『そだちの科学17――アスペルガー症候群のいま』](psychology/『そだちの科学17――アスペルガー症候群のいま』.md)
 	* [『そだちの科学20――思春期のそだち』](psychology/『そだちの科学20――思春期のそだち』.md)
 	* [『そだちの科学24――発達障害と発達論的理解』](psychology/『そだちの科学24――発達障害と発達論的理解』.md)
-	* 知的財産
+* 知的財産
 	* [島並・上野・横山『特許法入門』](intellectualproperty/島並・上野・横山『特許法入門』.md)
 * セキュリティ
 	* [齋藤『マスタリングTCP/IP 情報セキュリティ編』](security/齋藤『マスタリングTCP-IP 情報セキュリティ編』.md)
