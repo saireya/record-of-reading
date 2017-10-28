@@ -40,6 +40,7 @@
 	* [『そだちの科学24――発達障害と発達論的理解』](psychology/『そだちの科学24――発達障害と発達論的理解』.md)
 * 創発
 	* [de Bono『水平思考の世界』](emergence/de Bono『水平思考の世界』.md)
+	* [Schumpeter『経済発展の理論』](emergence/Schumpeter『経済発展の理論』.md)
 	* [島並・上野・横山『特許法入門』](emergence/島並・上野・横山『特許法入門』.md)
 * セキュリティ
 	* [齋藤『マスタリングTCP/IP 情報セキュリティ編』](security/齋藤『マスタリングTCP-IP 情報セキュリティ編』.md)
