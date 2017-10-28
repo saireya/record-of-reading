@@ -25,6 +25,7 @@
 	* [中村『龍樹』](system/中村『龍樹』.md)
 	* [Bruner『教育の過程』](system/Bruner『教育の過程』.md)
 	* [向後『上手な教え方の教科書』](system/向後『上手な教え方の教科書』.md)
+	* [田中『生命進化のシステムバイオロジー』](system/田中『生命進化のシステムバイオロジー』.md)
 * 社会学
 	* [Barnard『経営者の役割』](sociology/Barnard『経営者の役割』.md)
 	* [Simon『オーガニゼーションズ』](sociology/Simon『オーガニゼーションズ』.md)
