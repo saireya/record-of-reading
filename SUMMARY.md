@@ -17,7 +17,6 @@
 	* [Cassim『「インクルーシブデザイン」という発想』](design/Cassim『「インクルーシブデザイン」という発想』.md)
 * システム
 	* [Bertalanffy『一般システム理論』](system/Bertalanffy『一般システム理論』.md)
-	* [Maraterre『生命起源論の科学哲学』](system/Maraterre『生命起源論の科学哲学』.md)
 	* [Simon『システムの科学』](system/Simon『システムの科学』.md)
 	* [井庭ら『社会システム理論』](system/井庭ら『社会システム理論』.md)
 	* [河本『オートポイエーシス――第三世代システム』](system/河本『オートポイエーシス――第三世代システム』.md)
@@ -41,6 +40,7 @@
 	* [『そだちの科学24――発達障害と発達論的理解』](psychology/『そだちの科学24――発達障害と発達論的理解』.md)
 * 創発
 	* [de Bono『水平思考の世界』](emergence/de Bono『水平思考の世界』.md)
+	* [Maraterre『生命起源論の科学哲学』](emergence/Maraterre『生命起源論の科学哲学』.md)
 	* [Schumpeter『経済発展の理論』](emergence/Schumpeter『経済発展の理論』.md)
 	* [島並・上野・横山『特許法入門』](emergence/島並・上野・横山『特許法入門』.md)
 * セキュリティ
