@@ -1,9 +1,11 @@
 # de Bono[『水平思考の世界』(Lateral Thinking: An Introduction)](urn:isbn:4877713379)
+
 **Lateral thinking**: the process of using information to *bring about creativity and insight restructuring*.
 
 - The very word ‘lateral’ suggests the *movement sideways* to generate alternative patterns instead of moving straight ahead with the development of one particular pattern.
 
 ## 第1章
+
 最良の水平思考: 「思いついてしまえば*論理的に自明*」(p.22)
 
 - 問題の解決策は「*思いついてしまえばあまりに当たり前*すぎて、思いつくのに*なぜそれほど苦労したのか理解できない*」(p.21)
@@ -31,21 +33,25 @@
 - 垂直思考: 論理 > 頭脳, 水平思考: 論理 < 頭脳 (p.29)
 
 ## 第2章
+
 新しい情報が既成のアイデアの再検討を迫る ⇒ 新しいアイデアが生まれる
 
 ## 第3章
+
 「一つの穴をどんどん深く掘り進め(= *垂直思考*)ても、別の場所に穴を開ける(= *水平思考*)ことはできない」(p.46)
 
 - **Vertical thinking** is used to *dig the same hole deeper*.
 - **Lateral thinking** is used to *dig a hole in a different place*.
 
 ## 第4章
+
 「どんな分解単位が用いられていようと、一番役に立つものが最良の分解法」(p.80)
 
 - 「一つの分解法がそれ自体、ほかの分解法より優れているわけではない
 - 「分解法が任意のものであるからこそ、*相手の理解力に適した方法*を意識的に選ぶ」(p.80)
 
 ## 第5章
+
 水平思考はいかさま? → 「実際には*存在してもいない厳格なルールと仮定*に縛られている」(p.144)
 
 - It is the purpose of lateral thinking to *challenge any assumption* for it is the purpose of lateral thinking to try and restructure any pattern.
@@ -54,6 +60,7 @@
 - In challenging *assumptions* one challenges the necessity of boundaries and limits and one challenges the validity of individual concepts. As in lateral thinking in general there is no question of attacking the assumptions as wrong. Nor is there any question of offering better alternatives. It is simply a matter of trying to *restructure* patterns.
 
 ## 第7章
+
 *「関連する」*情報 = **先入観** (= 既知の関係性がある情報 = 新しいアイデアは生まれない)
 
 - 「問題と*関連のある情報だけしか受け付けない*となると、偶然のプロセスによって新しいアイデアが生まれるということが起きなくなってしまう」(p.193)
@@ -68,10 +75,12 @@
 「十分に受け身の姿勢で期待すれば、必ず何らかのアイデアは生まれると確信することが必要」(p.201)
 
 # de Bono[『Lateral Thinking: A Textbook of Creativity』](urn:isbn:0060903252)
+
 - At school the emphasis has traditionally always been on vertical thinking which is effective but incomplete.
 - Education is based on the safe assumption that one only has to go on collecting more and more information for it to sort itself into useful ideas. We have developed tools for handling the information: mathematics for extending it, logical thinking for refining it
 
 ## **Words**
+
 *neat and fixed packages of information*
 
 - *choice of words* in a description = *choice of viewpoint*
