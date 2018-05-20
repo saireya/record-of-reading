@@ -9,6 +9,7 @@
 	* [麻生ら『深層学習』](information/麻生ら『深層学習』.md)
 * コミュニケーション
 	* [Borch『ニクラス・ルーマン入門――社会システム理論とは何か』](communication/Borch『ニクラス・ルーマン入門――社会システム理論とは何か』.md)
+	* [Saussure『一般言語学講義』](communication/Saussure『一般言語学講義』.md)
 	* [町田『ソシュールと言語学』](communication/町田『ソシュールと言語学』.md)
 	* [Whorf『言語・思考・現実』](communication/Whorf『言語・思考・現実』.md)
 	* [今井『ことばと思考』](communication/今井『ことばと思考』.md)
