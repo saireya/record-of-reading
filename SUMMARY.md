@@ -13,6 +13,7 @@
 	* [Whorf『言語・思考・現実』](communication/Whorf『言語・思考・現実』.md)
 	* [今井『ことばと思考』](communication/今井『ことばと思考』.md)
 	* [中橋『メディア・リテラシー論』](communication/中橋『メディア・リテラシー論』.md)
+	* [米盛『アブダクション』](communication/米盛『アブダクション』.md)
 * デザイン
 	* [Norman『The design of everyday things』](design/Norman『The design of everyday things』.md)
 	* [Cassim『「インクルーシブデザイン」という発想』](design/Cassim『「インクルーシブデザイン」という発想』.md)
